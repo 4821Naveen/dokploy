@@ -49,7 +49,7 @@ export const Hero = () => {
                     >
                         {branding.companyName.toUpperCase()}
                         <br />
-                        <span className="text-primary opacity-80 italic">FOR TOMORROW</span>
+                        <span className="text-primary opacity-80 italic">FOR 1001</span>
                     </h1>
 
                     <p
